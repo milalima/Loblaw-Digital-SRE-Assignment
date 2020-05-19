@@ -117,12 +117,25 @@ To run and test the program you will nedd to:
       
       * Command that will make you run the program and generate the file with the results
 
-## Process Diagram 
+
+## Process of Development
+
+** 1 - To read CSV: ** Get an object or library that could read a file 
+    
+** 2 - To write CSV: **  Get an object or library that could write a file
+
+** 3 - To process the image: ** Follow articles about the image process and how to do it with a maximum of the result. Some studies of composer colours: https://pt.stackoverflow.com/questions/53378/algoritmo-de-anti-aliasing-em-java/53399#53399 and https://docs.oracle.com/javase/tutorial/2d/images/index.html and some codes as examples: https://stackoverflow.com/questions/36779025/java-fast-image-comparing and https://docs.oracle.com/javase/tutorial/2d/images/index.html
+
+It was possible to construct a code that can compare two images and give a reasonable rate of similarity  
+
+** 4 - Code structure and architecture: **  Create a better design that could be useful for future implementations, and that could be easy to understand for any developer apart of your position. 
+
+# Process Diagram 
 
 ![Diagram](images/process.png)
 
 
-## Functional Flowchart Diagram 
+# Functional Flowchart Diagram 
 
 ![Diagram](images/flowchart.png)
 
