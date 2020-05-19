@@ -20,7 +20,7 @@ IntelliJ IDEA
 
 1. Open a new command prompt
 
-2. Run git clone XXXXX
+2. Run git clone https://github.com/milalima/Loblaw-Digital-SRE-Assignment.git
 
 3. After cloning, go to project source folder and run : mvn clean generate-sources
 
