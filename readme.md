@@ -90,7 +90,7 @@ Math.sqrt(0.299 * dr * dr + 0.587 * dg * dg + 0.114 * db * db);
 //pixel by pixel is compared and normalization according to the image area
 public double differenceImages(BufferedImage a, BufferedImage b)
 
-/ Method to get the distance between each pixel of the color for comparison to be used in the similarity 
+// Method to get the distance between each pixel of the color for comparison to be used in the similarity 
 dif += distanceColors(color1, color2);
 
 ```
