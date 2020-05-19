@@ -1,0 +1,5 @@
+dto/ReadCSV.class
+Main.class
+dto/WriteCSV.class
+ProcessImage/ScoreImage.class
+CSV/ManipulateFile.class
