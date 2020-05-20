@@ -30,6 +30,8 @@ IntelliJ IDEA
 
 6. Point to project folder and select the data-extractor-template pom.xml file
 
+7. Create a file with the name images.csv with defined format
+
 7. Happy coding :)
 
 ## Usage
